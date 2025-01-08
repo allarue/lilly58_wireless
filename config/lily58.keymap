@@ -42,6 +42,7 @@
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            label = "QUERTY";
         };
 
         py_num {
@@ -94,6 +95,7 @@
             >;
 
             sensor-bindings = <&inc_dec_kp 0 0>;
+            label = "SelectLayer";
         };
     };
 };
