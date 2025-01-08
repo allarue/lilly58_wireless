@@ -40,6 +40,8 @@
 &kp LCTRL  &kp Z   &kp X   &kp C     &kp V     &kp B   &kp LBKT     &kp RBKT   &kp N   &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
                            &kp LALT  &kp LGUI  &mo 2   &kp SPACE    &kp ENTER  &mo 3   &kp BSPC  &to 4
             >;
+
+            sensor-bindings = <&inc_dec_kp 0 0>;
         };
 
         py_num {
@@ -90,6 +92,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
                         &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans
             >;
+
+            sensor-bindings = <&inc_dec_kp 0 0>;
         };
     };
 };
