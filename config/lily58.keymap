@@ -59,7 +59,7 @@
 &kp F1      &kp F2                &kp F3        &kp F4          &kp F5        &kp F6                                                       &kp PLUS       &kp N7     &kp N8        &kp N9    &kp F11   &kp F12
 &trans      &kp LEFT_PARENTHESIS  &kp AT        &kp LEFT_SHIFT  &kp DOLLAR    &kp PRCNT                                                    &kp EQUAL      &kp N4     &kp N5        &kp N6    &kp RPAR  &kp TILDE
 &trans      &kp LEFT_BRACE        &trans        &trans          &trans        &trans        &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp N0         &kp N1     &kp N2        &kp N3    &kp RBRC  &kp NON_US_BACKSLASH
-                                                &trans          &trans        &trans        &trans                  &trans                 &trans         &kp DEL    &mo 4
+                                                &trans          &trans        &trans        &trans                  &trans                 &trans         &kp DEL    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
@@ -79,7 +79,7 @@
 &kp GRAVE  &kp N1  &kp N2  &kp N3   &kp LSHIFT       &kp N5                           &kp LS(LC(LEFT))  &kp LC(LEFT_ARROW)  &kp UP            &kp LC(RIGHT)      &kp LS(LC(RIGHT))  &trans
 &trans     &kp F2  &kp F3  &kp F4   &kp F5           &kp F6                           &kp HOME          &kp LEFT            &kp DOWN          &kp RIGHT          &kp END            &trans
 &trans     &kp F8  &kp F9  &kp F10  &kp F11          &kp F12  &kp CAPSLOCK    &trans  &kp DEL           &kp LS(LC(LEFT))    &kp LS(LC(DOWN))  &kp LS(LC(RIGHT))  &kp RBKT           &kp BSLH
-                           &trans   &kp PRINTSCREEN  &trans   &kp LCTRL       &trans  &trans            &kp DEL             &to 4
+                           &trans   &kp PRINTSCREEN  &trans   &kp LCTRL       &trans  &trans            &kp DEL             &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
