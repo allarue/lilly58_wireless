@@ -78,7 +78,7 @@
 &trans     &trans  &trans  &trans   &trans           &trans                           &trans            &trans              &kp LS(LC(UP))    &trans             &trans             &trans
 &kp GRAVE  &kp N1  &kp N2  &kp N3   &kp LSHIFT       &kp N5                           &kp LS(LC(LEFT))  &kp LC(LEFT_ARROW)  &kp UP            &kp LC(RIGHT)      &kp LS(LC(RIGHT))  &trans
 &trans     &kp F2  &kp F3  &kp F4   &kp F5           &kp F6                           &kp HOME          &kp LEFT            &kp DOWN          &kp RIGHT          &kp END            &trans
-&trans     &kp F8  &kp F9  &kp F10  &kp F11          &kp F12  &kp CAPSLOCK    &trans  &kp DEL           &kp LS(LC(LEFT))    &kp LS(LC(DOWN))  &kp LS(LC(RIGHT))  &kp RBKT           &kp BSLH
+&trans     &kp F8  &kp F9  &kp F10  &kp F11          &kp F12  &kp CAPSLOCK    &trans  &kp DEL           &kp LS(LC(LEFT))    &kp LS(LC(DOWN))  &kp LS(LC(RIGHT))  &kp BACKSLASH      &trans
                            &trans   &kp PRINTSCREEN  &trans   &kp LCTRL       &trans  &trans            &kp DEL             &trans
             >;
 
